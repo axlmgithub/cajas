@@ -1,0 +1,8 @@
+div{
+    width: 578px;
+height: 100px;
+background-color: beige;
+display: inline-block;
+column-count: 20;
+
+    }
